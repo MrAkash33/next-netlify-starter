@@ -11,13 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <img style={{width:"100%"}} src="https://cdn.pixabay.com/animation/2023/05/28/16/56/16-56-27-962_512.gif"/>
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
